@@ -5,3 +5,4 @@ Here is what I did through this project.
 + Create metrics, use Descriptive Analytics and Diagnostics Analytics tenique to analyze data
 +	Visualize and report data by Power BI with DAR format
 +	Find insights and make Data story with ARC format.
+Pls refer the dashboard file in pdf and ppbix format, and data insight story file
