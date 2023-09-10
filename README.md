@@ -1,4 +1,6 @@
-# DA_projects
+# sales_analysis_of_vending_machine_company
+
+
 The Data is about Sales Transactions from Mar'20 to May'20 of Vending Machine Sales Service.
 Here is what I did through this project.
 + Transform data in Power Query and making Data Dictionary and Data Model
